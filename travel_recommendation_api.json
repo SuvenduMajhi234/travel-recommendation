@@ -31,18 +31,18 @@
       "description": "One of the most famous and lively beaches in the world."
     }
   ],
-  "temples": [
+ "temples": [
     {
       "id": 1,
       "name": "Angkor Wat, Cambodia",
-      "imageUrl": "https://images.unsplash.com/photo-1600100397561-a9515727ecc2?w=500",
-      "description": "Explore the largest religious monument in the world."
+      "imageUrl": "https://images.unsplash.com/photo-1540959733332-e94e270b2d42?w=600",
+      "description": "The largest religious monument in the world, known for its stunning Khmer architecture."
     },
     {
       "id": 2,
       "name": "Kashi Vishwanath, India",
-      "imageUrl": "https://images.unsplash.com/photo-1590050752117-23a923ef6c5a?w=500",
-      "description": "A historic and spiritual Hindu temple located in Varanasi."
+      "imageUrl": "https://images.unsplash.com/photo-1590050752117-23a923ef6c5a?w=600",
+      "description": "One of the most famous Hindu temples dedicated to Lord Shiva, located in ancient Varanasi."
     }
   ]
 }
