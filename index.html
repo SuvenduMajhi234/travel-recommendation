@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelBloom - Recommendations</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">TravelBloom</div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+        </ul>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search destinations (beach, temple, country)...">
+            <button id="searchBtn">Search</button>
+            <button id="clearBtn">Clear</button>
+        </div>
+    </nav>
+
+    <main id="home">
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Explore the World with TravelBloom</h1>
+                <p>Find the best recommendations for your next dream vacation. From serene beaches to historic temples, we have it all.</p>
+                <button class="cta-btn">Book Now</button>
+            </div>
+        </section>
+
+        <div id="results-container"></div>
+
+        <section id="about" class="page-section">
+            <h2>About Us</h2>
+            <p>TravelBloom is a platform dedicated to providing the most accurate and beautiful travel suggestions. Our team of globetrotters ensures you get the best experience on your trips.</p>
+        </section>
+
+        <section id="contact" class="page-section">
+            <h2>Contact Us</h2>
+            <p>Have questions? Reach out to us!</p>
+            <form id="contactForm">
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Email" required>
+                <textarea placeholder="Your Message" rows="5" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 TravelBloom. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
