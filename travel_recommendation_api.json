@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=500",
+          "description": "Visit the iconic Opera House and enjoy the beautiful harbor views."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1514395462725-fb4566210144?w=500",
+          "description": "A city known for its vibrant arts scene and world-class coffee."
+        }
+      ]
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500",
+      "description": "Experience luxury overwater bungalows and crystal clear lagoons."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=500",
+      "description": "One of the most famous and lively beaches in the world."
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1600100397561-a9515727ecc2?w=500",
+      "description": "Explore the largest religious monument in the world."
+    },
+    {
+      "id": 2,
+      "name": "Kashi Vishwanath, India",
+      "imageUrl": "https://images.unsplash.com/photo-1590050752117-23a923ef6c5a?w=500",
+      "description": "A historic and spiritual Hindu temple located in Varanasi."
+    }
+  ]
+}
